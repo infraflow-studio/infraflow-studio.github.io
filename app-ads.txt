@@ -1,0 +1,6 @@
+# app-ads.txt for Cannon Crash - must be served from the ROOT of the developer website listed in Google Play / App Store
+# (https://<your-domain>/app-ads.txt). Replace these template lines with the exact lines from:
+#   AdMob > Apps > View all apps > app-ads.txt (Google line with your pub-ID)
+#   AppLovin, Unity Ads and ironSource dashboards (their app-ads.txt lines)
+# Lines starting with # are comments. See Docs/Release/SdkIntegration.md section 6.
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
