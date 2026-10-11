@@ -4,3 +4,4 @@
 #   AppLovin, Unity Ads and ironSource dashboards (their app-ads.txt lines)
 # Lines starting with # are comments. See Docs/Release/SdkIntegration.md section 6.
 # google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-8912208782856017, DIRECT, f08c47fec0942fa0
